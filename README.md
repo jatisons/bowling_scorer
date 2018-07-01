@@ -3,11 +3,10 @@
 By: Jesse Smith
 
 This program solves the bowling scoring challenge. It is composed of two Python files:
-
-bowling_sim.py <- A bowling simulator that creates random legal games of bowling, used for debugging.
 bowling_game.py <- A bowling scoring program.
+bowling_sim.py <- A bowling simulator that creates random legal games of bowling, used for debugging.
 
-How to run:
+## How to run:
 
 These programs were written using Python 3.4.3 but any Python 3+ version should work with this code.
 
