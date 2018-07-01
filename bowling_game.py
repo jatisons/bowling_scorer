@@ -1,5 +1,5 @@
 # File: bowling_functional.py
-# Description: Functional programming approach to calculating the score of a bowling game
+# Description: Calculates the score of a bowling game
 # By: Jesse Smith
 
 # import ordered dict to make iteration easier in scoring without a counter variable
